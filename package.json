@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Memory Ledger",
+    "slug": "memory-ledger",
+    "extra": {
+      "eas": {
+        "projectId": "your-generated-project-id"
+      }
+    }
+  }
+}
